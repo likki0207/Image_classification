@@ -8,7 +8,7 @@ The CIFAR-10 dataset is a collection of images that are commonly used to train m
 # Steps to implement this project:
 We will implement this project by using Convolution neural network model. This model looks as following:
 
-![e](https://user-imageconverting the pixel values of the dataset to float types.githubusercontent.com/68856803/89033923-85482480-d355-11ea-98b7-07bfe7cc1011.png)
+
 
 (a) Import the required packages and modules to create our CNN model
 
