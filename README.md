@@ -5,6 +5,8 @@ The CIFAR-10 dataset is a collection of images that are commonly used to train m
 
 ![d](https://user-images.githubusercontent.com/68856803/89033560-a9573600-d354-11ea-9ff2-82ce285518b6.png)
 
+# Flowchart
+
 # Steps to implement this project:
 We will implement this project by using Convolution neural network model. This model looks as following:
 
