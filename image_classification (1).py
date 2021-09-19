@@ -4,6 +4,7 @@
 # In[15]:
 
 
+
 from keras.datasets import cifar10 #importing the cifar10 dataset
 import matplotlib.pyplot as plt
 (train_X,train_Y),(test_X,test_Y)=cifar10.load_data()
